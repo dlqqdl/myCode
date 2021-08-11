@@ -1,0 +1,25 @@
+
+T
+java:S1854%"7Remove this useless assignment to local variable "map".(Åïâµ8ËğßĞ±/
+Q
+java:S3740"/Provide the parametrized type for this generic.(³ò‰Äúÿÿÿÿ8ıĞ¢Ç±/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(³ò‰Äúÿÿÿÿ8ıĞ¢Ç±/
+E
+java:S1481%"(Remove this unused "map" local variable.(Åïâµ8ËğßĞ±/
+U
+java:S1128"8Remove this unused import 'java.util.logging.LogRecord'.(á™—’8ËğßĞ±/
+H
+java:S1481$"+Remove this unused "logger" local variable.(™·ˆ¬8ËğßĞ±/
+Q
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8ËğßĞ±/
+]	java:S125"<This block of commented-out lines of code should be removed.(½±õîûÿÿÿÿ8¾ĞáÉ±/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ8£ÆìÑ±/
+K
+java:S1068")Remove this unused "stack" private field.(³ò‰Äúÿÿÿÿ8ã¯£Ç±/
+U
+java:S1128"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘8Ú¬Ğ±/
+Q
+java:S3740"/Provide the parametrized type for this generic.(³ò‰Äúÿÿÿÿ8ıĞ¢Ç±/
+W
+java:S1854$":Remove this useless assignment to local variable "logger".(™·ˆ¬8ËğßĞ±/

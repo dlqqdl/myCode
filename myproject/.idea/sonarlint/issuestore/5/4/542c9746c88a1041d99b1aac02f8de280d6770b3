@@ -1,0 +1,22 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8´–¿ş°/
+=
+java:S2129" Remove this "String" constructor(¤¡¼8Éå°±/
+X	java:S125"<This block of commented-out lines of code should be removed.(¿Ù»Å8ù›ûª±/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ8˜‡í«±/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ8äÕì«±/
+^
+java:S2184"ACast one of the operands of this division operation to a "float".(˜Ğ¶¢8İô¯ş°/
+]
+java:S2184"@Cast one of the operands of this integer division to a "double".(˜Ğ¶¢8Ö­ş°/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(å°á}8¯ˆ³ş°/
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8Ç Ï©±/
+]
+java:S2184"@Cast one of the operands of this integer division to a "double".(˜Ğ¶¢8İô¯ş°/
+R
+java:S1854-"5Remove this useless assignment to local variable "s".(úè…Ì8Óçè«±/
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤¡¼8Ğœ´±/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(å°á}8İ°¶ş°/
+^
+java:S2184"ACast one of the operands of this division operation to a "float".(˜Ğ¶¢8Ö­ş°/

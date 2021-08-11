@@ -1,0 +1,12 @@
+
+]	java:S125G"<This block of commented-out lines of code should be removed.(´‘ûæıÿÿÿÿ8÷£¶×±/
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ÙÉ¯Âÿÿÿÿÿ8ò§’Ö±/
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ÙÉ¯Âÿÿÿÿÿ8ÁÉ’Ö±/
+t	java:S116	"SRename this field "CUR_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‘íùÿÿÿÿ8÷©ÃÕ±/
+u	java:S116"TRename this field "Container" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¼¤Ëÿÿÿÿÿ8™Ì¾Õ±/
+Q
+java:S1128"/Remove this unused import 'java.util.Currency'.(·®õãÿÿÿÿÿ8úÒÖÖ±/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Ë»Ø¯ùÿÿÿÿ8ó’Ö±/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(¼…ü8 Ş¨×±/
+x	java:S116"\Rename this field "DEFAULT_CONTAINER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È›Ê8“µ¿Õ±/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(øøûÊûÿÿÿÿ8·é‘Ö±/
