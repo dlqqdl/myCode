@@ -17,13 +17,16 @@ public class Atoi {
         int length = chars.length;
         int index = 0;
         // 先去除空格
-        while (index < length && chars[index] == ' ') index++;
+        while (index < length && chars[index] == ' ')
+            index++;
         // 极端情况 "  " 和""
-        if(index >= length) return 0;
+        if(index >= length)
+            return 0;
         // 再判断符号
-        int sign =  1;
+        int sign = 1;
         if(chars[index] == '-' || chars[index] == '+'){
-            if(chars[index] == '-') sign = -1;
+            if(chars[index] == '-')
+                sign = -1;
             index++;
         }
         int result = 0;
@@ -34,7 +37,7 @@ public class Atoi {
                 break;
             temp = result;
             result = result * 10 + num;
-            // 越界后，数值和期望数值发生变化，取余再除10获取原始值，比对判断
+            //越界后，数值和期望数值发生变化，取余再除10获取原始值，比对判断
             if(result/10 !=temp){
                 if(sign > 0)
                     return Integer.MAX_VALUE;
