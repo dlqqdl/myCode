@@ -11,10 +11,24 @@
 
     <artifactId>pay-service</artifactId>
     <version>${self.version}</version>
-    <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>edu.ncu.pay.demo</groupId>
+            <artifactId>pay-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>edu.ncu.pay.demo</groupId>
+            <artifactId>pay-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>edu.ncu.pay.demo</groupId>
+            <artifactId>pay-dao</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>edu.ncu.pay.demo</groupId>
+            <artifactId>pay-manager</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>

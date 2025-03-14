@@ -12,4 +12,15 @@
     <artifactId>pay-dao</artifactId>
     <version>${self.version}</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>edu.ncu.pay.demo</groupId>
+            <artifactId>pay-common</artifactId>
+        </dependency>
+    </dependencies>
+
 </project>

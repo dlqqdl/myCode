@@ -12,4 +12,11 @@
 
     <artifactId>pay-api</artifactId>
     <version>${self.version}</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
 </project>
