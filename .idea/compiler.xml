@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pay-manager" />
+        <module name="pay-starter" />
+        <module name="pay-dao" />
+        <module name="pay-service" />
+        <module name="pay-common" />
+        <module name="pay-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pay-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
