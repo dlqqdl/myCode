@@ -2,3 +2,8 @@ server:
   port: 8080
   servlet:
     context-path: /pay-service
+
+#mybatis下划线与驼峰转换
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
